@@ -39,7 +39,7 @@ def if_win(data, p):
             break
     if not None in data:
         if win == None:
-            wim = f"aot of moves no winner this time "
+            win = f"aot of moves no winner this time "
             
     return win 
 
